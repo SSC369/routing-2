@@ -1,0 +1,7 @@
+.blog-list-container {
+  padding: 30px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

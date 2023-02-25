@@ -1,0 +1,31 @@
+.bg-author-img {
+  height: 30px;
+  width: 30px;
+  border-radius: 200px;
+}
+.bg-image {
+  border-radius: 10px;
+  width: 100%;
+}
+.blog-main-container {
+  padding: 20px;
+  width: 60vw;
+}
+.bg-profile-container {
+  display: flex;
+  align-items: center;
+}
+.title-bg {
+  text-align: center;
+  font-size: 20px;
+}
+.bg-author {
+  font-size: 12px;
+  margin-left: 6px;
+  font-weight: 600;
+}
+.bg-content {
+  font-size: 14px;
+  color: #8e8e8e;
+  font-weight: 500;
+}
